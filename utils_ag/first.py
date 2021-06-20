@@ -1,5 +1,7 @@
 from colour_text import ColourText
 
+from utils_ag.filesystem import get_file_content
+
 
 def f():
     ct = ColourText()
@@ -11,3 +13,4 @@ def f():
 
 def fff2():
     print(123)
+
