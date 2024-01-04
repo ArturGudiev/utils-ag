@@ -15,11 +15,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    res = select_from_list(["aa", "bb", "cc"])
-
+    res = select_from_list(["aa2", "bb2", "cc2"])
     print(res)
-    # chooser = Fzf()
-    # choices = chooser.prompt([1, 2, 3])
     print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
