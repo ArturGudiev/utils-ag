@@ -22,3 +22,4 @@ twine==3.4.1
 urllib3==1.26.5
 webencodings==0.5.1
 zipp==3.4.1
+pyfzf
